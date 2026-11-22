@@ -1,45 +1,41 @@
-# Muhammad Behram Hassan — XP Desktop Portfolio
+# Muhammad Behram Hassan
 
-An interactive Windows XP desktop for Muhammad Behram Hassan, Junior Data Scientist at SoftCodec. Visitors open the resume, projects, skills, and certificates through desktop shortcuts, windows, a Start menu, and a taskbar.
+### Junior Data Scientist at SoftCodec
 
-## Run locally
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge" />
+</p>
 
-Open `index.html` in a browser, or use a local server (recommended so the GitHub app can fetch public repositories):
+## About Me
 
-```bash
-python -m http.server 8000
-```
+I'm Muhammad Behram Hassan, a Data Science and AI professional currently working as a **Junior Data Scientist at SoftCodec**.
 
-Then visit `http://localhost:8000`.
+I'm passionate about building intelligent solutions using Artificial Intelligence, Machine Learning, and modern software technologies.
 
-GitHub Pages: serve the repository root. No build step is required.
+## Technical Expertise
 
-## What is included
+- **Programming:** Python, JavaScript
+- **AI & ML:** Machine Learning, Deep Learning, NLP
+- **Generative AI:** LLMs, RAG, AI Agents, Prompt Engineering
+- **Development:** API Development, Backend Integration
+- **Tools:** Git, GitHub, Docker
 
-- Desktop wallpaper, movable shortcuts, Start menu, taskbar, clock, and calendar
-- Window manager: open, focus, drag, minimize, maximize, restore, close
-- Applications: My Computer, About Me, Resume, Projects, GitHub, Skills, Certifications, Contact, Recycle Bin, Command Prompt, Behram AI Assistant
-- Mobile layout: tap-to-open launcher and full-screen windows (no double-click)
-- Resume PDF download (`CV.pdf`) and print stylesheet
-- Contact form using the existing EmailJS configuration, with Formspree as a fallback and mailto if both fail
+## Connect With Me
 
-## Project files
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-```
-index.html          Desktop shell
-styles.css          XP visual system
-js/data.js          Profile, experience, projects, skills, certifications
-js/dom.js           Safe DOM helpers
-js/icons.js         Desktop icons
-js/wm.js            Window manager
-js/apps.js          Application windows
-js/main.js          Desktop, Start menu, taskbar
-assets/bliss.svg    Wallpaper
-assets/favicon.svg  Favicon
-Behram_img.jpg      Profile photo
-CV.pdf              Downloadable resume
-```
+---
 
-## Contact form
-
-EmailJS is already configured from the previous site (`service_yltnyjj`, templates `template_cf5ad0y` / `template_h1vukka`). The public key is a frontend key. If EmailJS is unavailable, the form tries Formspree (`https://formspree.io/f/mldoeyae`) and then a mailto draft.
+<p align="center">
+  <i>Building intelligent solutions through AI and innovation.</i>
+</p>
